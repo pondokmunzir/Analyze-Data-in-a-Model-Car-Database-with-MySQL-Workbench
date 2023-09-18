@@ -1,4 +1,4 @@
-*# Data Analysis for Inventory Optimization at Mint Classics*
+*# Analyze Data in a Model Car Database with MySQL Workbench*
 
 
 *Project Description:*
