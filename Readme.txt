@@ -20,3 +20,13 @@ This project aims to conduct data analysis in the context of the fictional compa
 **Task 3 - Investigating Business Issues and Identifying Affected Tables**
 **Task 4 - Formulating Recommendations to Address Business Issues**
 **Task 5 - Crafting Conclusions and Recommendations with SQL Support**
+
+*The following will be analyzed in this project:*
+1. Are there products with high inventory but low sales? How can we optimize the inventory of these products?
+2. Are all the warehouses currently in use still necessary? How can we review warehouses with low or inactive inventory?
+3. Is there a relationship between product prices and their sales levels? How can price adjustments impact sales?
+4. Who are the customers contributing the most to sales? How can we focus sales efforts on these valuable customers?
+5. How can sales employee performance be evaluated using sales data?
+6. How can customer payment trends be analyzed? What credit risks should be monitored, and how can cash flow be managed?
+7. How can the performance of various product lines be compared? Which products are the most successful, and which ones need improvement or removal?
+8. How can the company's credit policies be evaluated? Are there customers with credit issues that need to be addressed?
