@@ -1,4 +1,4 @@
-Title: Data Analysis for Inventory Optimization at Mint Classics
+# Data Analysis for Inventory Optimization at Mint Classics
 
 
 Project Description:
